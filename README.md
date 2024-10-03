@@ -3,7 +3,7 @@ I wanted to create a repo to practice coding challenges daily.  i wanted to auto
 
 ## Create a New Project for Each Day
 
-To create a new project for each day, use the following command:
+To create a new project for each day, use the following command while in the root dir:
 
 ```sh
 ./create_challenge.sh <DAY#>
@@ -11,7 +11,7 @@ To create a new project for each day, use the following command:
 
 ## Run the Challenge
 
-To run the challenge for a specific day, use the following command:
+To run the challenge for a specific day, use the following command while in root dir:
 
 ```sh
 ./run_challenge.sh <DAY#>
